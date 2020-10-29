@@ -1,0 +1,35 @@
+H:\Programs\C#\BorderRM\Border Remover\obj\Debug\Border Remover.csprojAssemblyReference.cache
+H:\Programs\C#\BorderRM\Border Remover\obj\Debug\MainWindow.g.cs
+H:\Programs\C#\BorderRM\Border Remover\obj\Debug\App.g.cs
+H:\Programs\C#\BorderRM\Border Remover\obj\Debug\Border Remover_MarkupCompile.cache
+H:\Programs\C#\BorderRM\Border Remover\obj\Debug\Border Remover_MarkupCompile.lref
+H:\Programs\C#\BorderRM\Border Remover\bin\Debug\Border Remover.exe.config
+H:\Programs\C#\BorderRM\Border Remover\bin\Debug\Border Remover.exe
+H:\Programs\C#\BorderRM\Border Remover\bin\Debug\Border Remover.pdb
+H:\Programs\C#\BorderRM\Border Remover\obj\Debug\MainWindow.baml
+H:\Programs\C#\BorderRM\Border Remover\obj\Debug\Border Remover.g.resources
+H:\Programs\C#\BorderRM\Border Remover\obj\Debug\Border_Remover.Properties.Resources.resources
+H:\Programs\C#\BorderRM\Border Remover\obj\Debug\Border Remover.csproj.GenerateResource.cache
+H:\Programs\C#\BorderRM\Border Remover\obj\Debug\Border Remover.csproj.CoreCompileInputs.cache
+H:\Programs\C#\BorderRM\Border Remover\obj\Debug\Border Remover.exe
+H:\Programs\C#\BorderRM\Border Remover\obj\Debug\Border Remover.pdb
+C:\Programs\C#\BorderRM\Border Remover\bin\Debug\Border Remover.exe.config
+C:\Programs\C#\BorderRM\Border Remover\bin\Debug\Border Remover.exe
+C:\Programs\C#\BorderRM\Border Remover\bin\Debug\Border Remover.pdb
+C:\Programs\C#\BorderRM\Border Remover\obj\Debug\Border Remover.csprojAssemblyReference.cache
+C:\Programs\C#\BorderRM\Border Remover\obj\Debug\MainWindow.g.cs
+C:\Programs\C#\BorderRM\Border Remover\obj\Debug\App.g.cs
+C:\Programs\C#\BorderRM\Border Remover\obj\Debug\Border Remover_MarkupCompile.cache
+C:\Programs\C#\BorderRM\Border Remover\obj\Debug\Border Remover_MarkupCompile.lref
+C:\Programs\C#\BorderRM\Border Remover\obj\Debug\MainWindow.baml
+C:\Programs\C#\BorderRM\Border Remover\obj\Debug\Border Remover.g.resources
+C:\Programs\C#\BorderRM\Border Remover\obj\Debug\Border_Remover.Properties.Resources.resources
+C:\Programs\C#\BorderRM\Border Remover\obj\Debug\Border Remover.csproj.GenerateResource.cache
+C:\Programs\C#\BorderRM\Border Remover\obj\Debug\Border Remover.csproj.CoreCompileInputs.cache
+C:\Programs\C#\BorderRM\Border Remover\obj\Debug\Border Remover.exe
+C:\Programs\C#\BorderRM\Border Remover\obj\Debug\Border Remover.pdb
+C:\Programs\C#\BorderRM\Border Remover\bin\Debug\WaterMark\WaterMerk.png
+C:\Programs\C#\BorderRM\Border Remover\bin\Debug\Border Remover.exe.manifest
+C:\Programs\C#\BorderRM\Border Remover\bin\Debug\Border Remover.application
+C:\Programs\C#\BorderRM\Border Remover\obj\Debug\Border Remover.exe.manifest
+C:\Programs\C#\BorderRM\Border Remover\obj\Debug\Border Remover.application

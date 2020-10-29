@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<asmv1:assembly xsi:schemaLocation="urn:schemas-microsoft-com:asm.v1 assembly.adaptive.xsd" manifestVersion="1.0" xmlns:asmv1="urn:schemas-microsoft-com:asm.v1" xmlns="urn:schemas-microsoft-com:asm.v2" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:co.v1="urn:schemas-microsoft-com:clickonce.v1" xmlns:asmv3="urn:schemas-microsoft-com:asm.v3" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns:co.v2="urn:schemas-microsoft-com:clickonce.v2">
+  <asmv1:assemblyIdentity name="Border Remover.exe" version="1.0.0.0" publicKeyToken="cf03b435a6c1635f" language="neutral" processorArchitecture="msil" type="win32" />
+  <application />
+  <entryPoint>
+    <assemblyIdentity name="Border Remover" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+    <commandLine file="Border Remover.exe" parameters="" />
+  </entryPoint>
+  <trustInfo>
+    <security>
+      <applicationRequestMinimum>
+        <PermissionSet Unrestricted="true" ID="Custom" SameSite="site" />
+        <defaultAssemblyRequest permissionSetReference="Custom" />
+      </applicationRequestMinimum>
+      <requestedPrivileges xmlns="urn:schemas-microsoft-com:asm.v3">
+        <!--
+          UAC Manifest Options
+          If you want to change the Windows User Account Control level replace the
+          requestedExecutionLevel node with one of the following.
+
+        <requestedExecutionLevel  level="asInvoker" uiAccess="false" />
+        <requestedExecutionLevel  level="requireAdministrator" uiAccess="false" />
+        <requestedExecutionLevel  level="highestAvailable" uiAccess="false" />
+
+         If you want to utilize File and Registry Virtualization for backward
+         compatibility then delete the requestedExecutionLevel node.
+    -->
+        <requestedExecutionLevel level="asInvoker" uiAccess="false" />
+      </requestedPrivileges>
+    </security>
+  </trustInfo>
+  <dependency>
+    <dependentOS>
+      <osVersionInfo>
+        <os majorVersion="5" minorVersion="1" buildNumber="2600" servicePackMajor="0" />
+      </osVersionInfo>
+    </dependentOS>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="Microsoft.Windows.CommonLanguageRuntime" version="4.0.30319.0" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Border Remover.exe" size="20960">
+      <assemblyIdentity name="Border Remover" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>DOEVsCjQDy5Wm/lhaSYogTKsY8/obAo3kjj53E5ndNQ=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <file name="Border Remover.exe.config" size="189">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>R+Wg8QGvQVHX8T0ta/qbhH1bXkqY0fRnS3wBV3J0bN8=</dsig:DigestValue>
+    </hash>
+  </file>
+<publisherIdentity name="CN=LAPTOP-3572V1T5\megah" issuerKeyHash="39f75f94aeeba1134270e308600d85da4e8acba5" /><Signature Id="StrongNameSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>jW8qXiLQP7I6elTbtnzjP9ZqN2EzgeZ7gF68S+BYgNk=</DigestValue></Reference></SignedInfo><SignatureValue>qpphsWuGVeeL7SO/1ifonxlom9wSLn74vEArSkkTFtscf7NFK5ZJpEORJiz+7Ah3N6xtoKdSpMFmUX3vjRn/BfYtCLAmwffcH6IKY23zQIEcLZtS9LJ3hUA9dhye41qGNhWJKRY+0+HJWcmlFd2HdNj2CSY47igK0ugkw03sneo=</SignatureValue><KeyInfo Id="StrongNameKeyInfo"><KeyValue><RSAKeyValue><Modulus>4Zx6uFtyySLV2eEM1WcdAmhr6Ju2iaS0CIXnHLinGNDfhQMQXUjjKAZHNVlRKbAW34TmIq1NUgj1u7yCNTY4tuaTfD+aSBIQYA2o1czy04asIqpza1I5snx6FffCQ1E5SjxUE59Tnt36ChbLNpC3y97kwhW1NH1L0eWa1fiouy0=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><msrel:RelData xmlns:msrel="http://schemas.microsoft.com/windows/rel/2005/reldata"><r:license xmlns:r="urn:mpeg:mpeg21:2003:01-REL-R-NS" xmlns:as="http://schemas.microsoft.com/windows/pki/2005/Authenticode"><r:grant><as:ManifestInformation Hash="d98058e04bbc5e807be6813361376ad63fe37cb6db547a3ab23fd0225e2a6f8d" Description="" Url=""><as:assemblyIdentity name="Border Remover.exe" version="1.0.0.0" publicKeyToken="cf03b435a6c1635f" language="neutral" processorArchitecture="msil" type="win32" /></as:ManifestInformation><as:SignedBy /><as:AuthenticodePublisher><as:X509SubjectName>CN=LAPTOP-3572V1T5\megah</as:X509SubjectName></as:AuthenticodePublisher></r:grant><r:issuer><Signature Id="AuthenticodeSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>Q9DdgqXFj8130sFtmJJ9nwFWNO5vPVHsrqi9YLaAwkI=</DigestValue></Reference></SignedInfo><SignatureValue>CeCNusTz03GWlGCvboaODW2PC2bO77ksGMAVO4J43FIWJsSVmqaqQoG11snVUYLK9Xx4VsSGQhlnygxMAdeU2iBxLkXpeX8cgWWohxWFEI07paSUG8kvV3OipBLP4MqDNjIZHmtDHFuzqrJ6TsyuGQVYcAQBiXYkOtHUaNOtUAI=</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>4Zx6uFtyySLV2eEM1WcdAmhr6Ju2iaS0CIXnHLinGNDfhQMQXUjjKAZHNVlRKbAW34TmIq1NUgj1u7yCNTY4tuaTfD+aSBIQYA2o1czy04asIqpza1I5snx6FffCQ1E5SjxUE59Tnt36ChbLNpC3y97kwhW1NH1L0eWa1fiouy0=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><X509Data><X509Certificate>MIIB7TCCAVagAwIBAgIQYwcLxIOWrbNE0aMohwQwsjANBgkqhkiG9w0BAQsFADA1MTMwMQYDVQQDHioATABBAFAAVABPAFAALQAzADUANwAyAFYAMQBUADUAXABtAGUAZwBhAGgwHhcNMjAwNzI0MTMwMzAxWhcNMjEwNzI0MTkwMzAxWjA1MTMwMQYDVQQDHioATABBAFAAVABPAFAALQAzADUANwAyAFYAMQBUADUAXABtAGUAZwBhAGgwgZ8wDQYJKoZIhvcNAQEBBQADgY0AMIGJAoGBAOGcerhbcski1dnhDNVnHQJoa+ibtomktAiF5xy4pxjQ34UDEF1I4ygGRzVZUSmwFt+E5iKtTVII9bu8gjU2OLbmk3w/mkgSEGANqNXM8tOGrCKqc2tSObJ8ehX3wkNROUo8VBOfU57d+goWyzaQt8ve5MIVtTR9S9HlmtX4qLstAgMBAAEwDQYJKoZIhvcNAQELBQADgYEAs+HwQOFJA1f9uOu2LnJ5SjPdVtRWETCVBJA0Oxc2lCiXfyeOLfzNKAVxbWm4TRFf2/ZgrDW1lJeM5hM8MLzn4V3p62ecZI4uhpM92xSks+FnaIT9DWz30vrWdwYlvAAnoQY3g8FJTEkMf0dZ7vdpiQSKvoVoSGQ/FbMRd1Cot54=</X509Certificate></X509Data></KeyInfo></Signature></r:issuer></r:license></msrel:RelData></KeyInfo></Signature></asmv1:assembly>
